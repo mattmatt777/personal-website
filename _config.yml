@@ -1,0 +1,45 @@
+title: Matthias Wong
+description: Biomedical engineering student at UBC building hardware for biology.
+baseurl: ""
+url: https://matthiaswong.com
+
+remote_theme: piazzai/cvless@v2.7.4
+
+# site settings
+taglong: Biomedical engineering at UBC &middot; bioreactors, microfluidics &amp; biomaterials
+tagshort: Biomedical Engineering, UBC
+
+# author settings
+author:
+  name: Matthias Wong
+  email: matthias.s.wong@gmail.com
+joblines:
+  - BASc Biomedical Engineering
+  - University of British Columbia
+  - Vancouver, BC
+
+# profile links
+profile:
+  linkedin: https://www.linkedin.com/in/wong-matthias/
+  github: https://github.com/mattmatt777
+  cv: true
+
+# build settings
+permalink: pretty
+exclude:
+  - LICENSE
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _config.dev.yml
+  - vendor/
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+sass:
+  style: compressed
+  sourcemap: never

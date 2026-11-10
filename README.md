@@ -1,13 +1,21 @@
 # personal-website
 
-A plain HTML/CSS personal site, hosted on GitHub Pages.
-
-## Publishing
-
-1. In the repo, open **Settings → Pages**.
-2. Under **Build and deployment**, set **Source** to "Deploy from a branch", branch `main`, folder `/ (root)`.
-3. Save. The site goes live at https://mattmatt777.github.io/personal-website/ within a minute or two.
+Source for [matthiaswong.com](https://matthiaswong.com), built with Jekyll and the [cvless](https://github.com/piazzai/cvless) theme and hosted on GitHub Pages.
 
 ## Editing
 
-Change `index.html` for content and `style.css` for styling. Every push to `main` republishes the site.
+- `index.md` is the home page (the About text under the particle banner).
+- `cv.md` is the full CV page. It also prints cleanly from the browser.
+- `_config.yml` holds your name, tagline, email, the lines under "Contact", and the icon links (LinkedIn, GitHub, email, CV).
+- `assets/` holds the favicons.
+
+Every push to `main` rebuilds the site. GitHub Pages should be set to "Deploy from a branch", `main`, `/ (root)`. The theme is loaded with `remote_theme`, which Pages supports natively, so no workflow is needed.
+
+## Preview locally
+
+```sh
+bundle install
+bundle exec jekyll serve --config _config.yml,_config.dev.yml
+```
+
+Then open http://localhost:4000.
