@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-I'm a fourth-year Biomedical Engineering student at the University of British Columbia, specializing in biomaterials and cellular engineering. I started my engineering degree at Queen's University before moving to UBC, and I graduate in 2027.
+I'm a fifth-year Biomedical Engineering student at the University of British Columbia, specializing in biomaterials and cellular engineering. I started my engineering degree at Queen's University before moving to UBC, and I graduate in 2027.
 
 My work sits where mechanical design meets the wet lab. I CAD and build the equipment (bioreactors, microfluidic chips, molds and bioprinters), and then I culture the cells that go in it.
 
@@ -15,4 +15,4 @@ My work sits where mechanical design meets the wet lab. I CAD and build the equi
 - **VP Operations, UBREC.** I run logistics and sponsorships for the Undergraduate Biomedical Robotics Engineering Competition.
 - Most recently, I was an **engineering co-op at BC Cancer's Genome Sciences Centre**, where I designed molds for silicone casting and researched plasma etching for adhesion.
 
-[Read my full CV](cv), or get in touch by [email](mailto:matthias.s.wong@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/wong-matthias/).
+Interested in working together, or want to talk biomanufacturing? Get in touch by [email](mailto:matthias.s.wong@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/wong-matthias/), or [read my full CV](cv).

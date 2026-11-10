@@ -24,7 +24,7 @@ BASc, Engineering · Kingston, ON · Sep 2022 – Apr 2023
 ## Experience
 
 ### BC Cancer – Genome Sciences Centre
-Engineering Co-op Student, Instrumentation Technology · Vancouver, BC · Sep 2025 – Apr 2026
+Engineering Co-op Student, Instrumentation · Vancouver, BC · Sep 2025 – Apr 2026
 
 * Designed and 3D-printed core-cavity and open-pour molds for casting silicone elastomers.
 * Classified and imaged cancer tumour histology slides using SIFT in Fiji/ImageJ.
@@ -95,6 +95,9 @@ Vice President of Operations · Vancouver, BC · Dec 2025 – Present
 
 * Organize competition logistics and events, and coordinate sponsorships and participant outreach.
 
+### UBC MakeMed
+Advisor · Vancouver, BC · 2025 – 2026
+
 ### Queen's Engineering Society
 Webmaster and HR Project Coordinator, First Year Executive Council · Kingston, ON · Sep 2022 – Apr 2023
 
@@ -125,7 +128,7 @@ Student Leader · Vancouver, BC · Sep 2018 – Apr 2022
 
 **Certifications:** SolidWorks Associate (CSWA), UBC CASTL Introduction to Biomanufacturing, UBC Chemical and Biosafety, WHMIS
 
-**Design and fabrication:** SolidWorks, AutoCAD, COMSOL, 3D printing, molding and casting, machining, water-jet cutting
+**Design and fabrication:** SolidWorks (CSWA-certified), AutoCAD, COMSOL, 3D printing, molding and casting, machining, water-jet cutting
 
 **Lab:** Mammalian and bacterial culture, transfection, PCR, Gibson and Golden Gate assembly, flow cytometry, confocal microscopy, protein purification
 
