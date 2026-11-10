@@ -1,7 +1,5 @@
 title: Matthias Wong
 description: Biomedical engineering student at UBC building hardware for biology.
-baseurl: ""
-url: https://matthiaswong.com
 
 remote_theme: piazzai/cvless@v2.7.4
 
@@ -21,7 +19,6 @@ joblines:
 # profile links
 profile:
   linkedin: https://www.linkedin.com/in/wong-matthias/
-  github: https://github.com/mattmatt777
   cv: true
 
 # build settings
